@@ -1,0 +1,2 @@
+# HecateBlog
+Python Web practice
